@@ -16,5 +16,9 @@ Due to the complexity of the payoff structure, Monte Carlo simulation is the onl
 
 
 
-Reference:
-https://finpricing.com/lib/EqCppi.html
+References:
+
+https://finpricing.com/lib/EqConvertible.html
+
+https://bitbucket.org/cmrm11/eqcppi/downloads/EqCppi-19.pdf
+
